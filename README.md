@@ -24,7 +24,8 @@
      - THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
   ## Application-Link:
-
+  https://flutemonkey.github.io/BIG-Note-Taker/
+  
   ## Additional Information:
     - Github: [FluteMonkey](https://github.com/FluteMonkey)
     - Email: z.c.chun2003@gmail.com 
